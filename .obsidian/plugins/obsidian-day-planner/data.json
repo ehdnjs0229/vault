@@ -1,0 +1,16 @@
+{
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": false,
+  "zoomLevel": 1,
+  "timelineIcon": "calendar-with-checkmark",
+  "endLabel": "All done",
+  "startHour": 6,
+  "timelineDateFormat": "LLLL",
+  "centerNeedle": false,
+  "plannerHeading": "일정",
+  "plannerHeadingLevel": 1,
+  "timelineColored": false,
+  "timelineStartColor": "#006644",
+  "timelineEndColor": "#4d194d"
+}

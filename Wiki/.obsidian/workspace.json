@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "c5a4f1d3b7aa65dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e804abe5ae96de0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "993bbcb41caf402e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일정/2023-09-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c122fdcbecc6b4fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1837ccf2c5bda3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c9f20e78497b5c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "888699a46b718c91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f117f6ccdd8fe8b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94cf92d0e22f0483",
+    "type": "split",
+    "children": [
+      {
+        "id": "c196e76bef75723e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57b047061737247f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "일정/2023-09-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9c1d19809256b4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "일정/2023-09-11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f54b383b183a75e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "599b2cb554500e89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "일정/2023-09-11.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "57b047061737247f",
+  "lastOpenFiles": []
+}
