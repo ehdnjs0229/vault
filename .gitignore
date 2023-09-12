@@ -1,0 +1,7 @@
+**/.DS_Store
+Wiki/Media/**
+Wiki/Samples documents/**
+.obsidian/snippets/**
+.obsidian/themes/**
+.obsidian/workspace.json
+.obsidian/plugins/obsidian-style-settings/**
