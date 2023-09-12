@@ -10,5 +10,6 @@
   "obsidian-linter",
   "obsidian-git",
   "templater-obsidian",
-  "better-search-views"
+  "better-search-views",
+  "obsidian-style-settings"
 ]

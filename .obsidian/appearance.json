@@ -1,6 +1,9 @@
 {
   "accentColor": "",
   "enabledCssSnippets": [
-    "cornell"
-  ]
+    "cornell",
+    "banner",
+    "zcornell-hacks"
+  ],
+  "cssTheme": "Origin"
 }

@@ -63,7 +63,25 @@
       "key": "E"
     }
   ],
-  "templater-obsidian:Wiki/템플릿/평일.md": [
+  "templater-obsidian:Wiki/템플릿/주말.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "2"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Delete"
+    }
+  ],
+  "templater-obsidian:Wiki/템플릿/코넬.md": [
     {
       "modifiers": [
         "Alt",
@@ -72,13 +90,40 @@
       "key": "1"
     }
   ],
-  "templater-obsidian:Wiki/템플릿/주말.md": [
+  "templater-obsidian:Wiki/템플릿/코넬 - 배너.md": [
     {
       "modifiers": [
         "Alt",
         "Shift"
       ],
       "key": "2"
+    }
+  ],
+  "templater-obsidian:Wiki/템플릿/코넬 - 단서.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "3"
+    }
+  ],
+  "templater-obsidian:Wiki/템플릿/코넬 - 요약.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "4"
+    }
+  ],
+  "templater-obsidian:Wiki/템플릿/평일.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "5"
     }
   ]
 }

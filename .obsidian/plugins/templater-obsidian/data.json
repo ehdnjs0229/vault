@@ -21,8 +21,11 @@
   ],
   "syntax_highlighting": true,
   "enabled_templates_hotkeys": [
-    "Wiki/템플릿/평일.md",
-    "Wiki/템플릿/주말.md"
+    "Wiki/템플릿/코넬.md",
+    "Wiki/템플릿/코넬 - 배너.md",
+    "Wiki/템플릿/코넬 - 단서.md",
+    "Wiki/템플릿/코넬 - 요약.md",
+    "Wiki/템플릿/평일.md"
   ],
   "startup_templates": [
     ""
