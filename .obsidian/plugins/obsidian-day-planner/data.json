@@ -7,7 +7,7 @@
   "endLabel": "All done",
   "startHour": 6,
   "timelineDateFormat": "LLLL",
-  "centerNeedle": false,
+  "centerNeedle": true,
   "plannerHeading": "일정",
   "plannerHeadingLevel": 1,
   "timelineColored": false,

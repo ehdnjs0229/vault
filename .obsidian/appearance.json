@@ -5,5 +5,8 @@
     "banner",
     "zcornell-hacks"
   ],
-  "cssTheme": "Origin"
+  "cssTheme": "Origin",
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "translucency": false
 }

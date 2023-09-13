@@ -63,15 +63,6 @@
       "key": "E"
     }
   ],
-  "templater-obsidian:Wiki/템플릿/주말.md": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "2"
-    }
-  ],
   "app:delete-file": [
     {
       "modifiers": [
@@ -118,6 +109,23 @@
     }
   ],
   "templater-obsidian:Wiki/템플릿/평일.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "5"
+    }
+  ],
+  "editor:rename-heading": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F6"
+    }
+  ],
+  "templater-obsidian:Wiki/템플릿/주말.md": [
     {
       "modifiers": [
         "Alt",
