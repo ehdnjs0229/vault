@@ -4,5 +4,5 @@
   "livePreview": true,
   "propertiesInDocument": "source",
   "foldHeading": true,
-  "showInlineTitle": true
+  "showInlineTitle": false
 }
