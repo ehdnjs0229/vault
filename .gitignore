@@ -5,3 +5,4 @@ Wiki/Samples documents/**
 .obsidian/themes/**
 .obsidian/workspace.json
 .obsidian/plugins/obsidian-style-settings/**
+.obsidian/plugins/obsidian-imgur-plugin/data.json
