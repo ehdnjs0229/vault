@@ -151,5 +151,14 @@
       ],
       "key": "7"
     }
+  ],
+  "templater-obsidian:Wiki/템플릿/코넬 - 트러블 슈팅.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "7"
+    }
   ]
 }
