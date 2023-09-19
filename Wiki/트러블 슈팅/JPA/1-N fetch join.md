@@ -9,7 +9,7 @@ cssclass: cornell-left cornell-border
 
 # 1-N fetch join
 
->[!cue] Issue
+>[!cue] fetchJoin시 반환타입에 따른 결과 차이
 
 ## 문제
 - 1:N 관계에서 fetchJoin시 반환형식에 따라 결과값이 달라짐
@@ -18,6 +18,7 @@ cssclass: cornell-left cornell-border
 
 ---
 ## 해결 방안
+
 >[!cue] 단건
 
 - Entity : 단건 조회로 엔티티로 패키징되어 반환 됨
