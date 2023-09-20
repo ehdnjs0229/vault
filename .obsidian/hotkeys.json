@@ -160,5 +160,14 @@
       ],
       "key": "7"
     }
+  ],
+  "templater-obsidian:Wiki/템플릿/코넬 - 알고리즘.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "8"
+    }
   ]
 }
