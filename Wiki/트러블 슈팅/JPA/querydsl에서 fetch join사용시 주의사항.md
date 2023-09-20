@@ -87,8 +87,6 @@ on과 fetchJoin을 함께 사용할 시 `with-clause not allowed on fetched asso
 
 > [!info] 첫 번째 문제와는 약간 다른게 leftJoin에 EntityGraph가 참조되냐, Entity가 직접 호출되냐 차이이다.
 
----
-
 ## 해결 방안
 
 on절을 where절로 바꿔 사용한다.
